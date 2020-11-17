@@ -1,0 +1,9 @@
+C:\src\PeopleSoftTest\PeopleSoftTest\bin\Debug\PeopleSoftTest.exe.config
+C:\src\PeopleSoftTest\PeopleSoftTest\bin\Debug\PeopleSoftTest.exe
+C:\src\PeopleSoftTest\PeopleSoftTest\bin\Debug\PeopleSoftTest.pdb
+C:\src\PeopleSoftTest\PeopleSoftTest\bin\Debug\Newtonsoft.Json.dll
+C:\src\PeopleSoftTest\PeopleSoftTest\bin\Debug\Newtonsoft.Json.xml
+C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csproj.CoreCompileInputs.cache
+C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csproj.CopyComplete
+C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.exe
+C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.pdb
