@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
+using System.Net;
+using System.IO;
 
 namespace PeopleSoftTest
 {
@@ -30,7 +32,7 @@ namespace PeopleSoftTest
                 {"grant_type", "cps" },
                 {"client_id","thirdpartyapp" },
                 {"client_secret", "v4secret" },
-                {"scope", "openid profile offline_access thirdparty" },
+                {"scope", "openid profile thirdparty" },
                 {"apikey", "ofHv09sm8HjfVy67FM8s/4r7L9lnmDbyPlWtvyTmChAhTPfN0Gptag==" }
             };
 
