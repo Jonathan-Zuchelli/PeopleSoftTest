@@ -28,10 +28,10 @@ namespace PeopleSoftTest
             var values = new Dictionary<string, string>
             {
                 {"grant_type", "cps" },
-                {"client_id","v3app" },
+                {"client_id","thirdpartyapp" },
                 {"client_secret", "v4secret" },
                 {"scope", "openid profile offline_access thirdparty" },
-                {"apikey", "5KDgPVINVd7ye4f4VLAzNofcm5ZRpLyEOYYkP7uEuMulW98GS5MMHQ==" }
+                {"apikey", "ofHv09sm8HjfVy67FM8s/4r7L9lnmDbyPlWtvyTmChAhTPfN0Gptag==" }
             };
 
             var content = new FormUrlEncodedContent(values);

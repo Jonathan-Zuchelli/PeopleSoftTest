@@ -7,3 +7,13 @@ C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csproj.CoreCompile
 C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csproj.CopyComplete
 C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.exe
 C:\src\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.pdb
+D:\code\PeopleSoftTest\PeopleSoftTest\bin\Debug\PeopleSoftTest.exe.config
+D:\code\PeopleSoftTest\PeopleSoftTest\bin\Debug\PeopleSoftTest.exe
+D:\code\PeopleSoftTest\PeopleSoftTest\bin\Debug\PeopleSoftTest.pdb
+D:\code\PeopleSoftTest\PeopleSoftTest\bin\Debug\Newtonsoft.Json.dll
+D:\code\PeopleSoftTest\PeopleSoftTest\bin\Debug\Newtonsoft.Json.xml
+D:\code\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csprojAssemblyReference.cache
+D:\code\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csproj.CoreCompileInputs.cache
+D:\code\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.csproj.CopyComplete
+D:\code\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.exe
+D:\code\PeopleSoftTest\PeopleSoftTest\obj\Debug\PeopleSoftTest.pdb
